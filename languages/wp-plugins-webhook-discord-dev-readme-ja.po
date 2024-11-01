@@ -1,0 +1,70 @@
+# Translation of Plugins - Webhook for Discord - Development Readme (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Webhook for Discord - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Webhook for Discord - Development Readme (trunk)\n"
+
+#. Short description.
+msgid "This plugin allows you to easily notify the Discord group when you post an article."
+msgstr "このプラグインは記事を投稿したら簡単にDiscordにお知らせ出来ます。"
+
+#. Plugin name.
+msgid "Webhook for Discord"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "It's free."
+msgstr "このプラグインは完全無料です。"
+
+#. Found in faq header.
+msgid "How much is it?"
+msgstr "有料ですか？"
+
+#. Found in description paragraph.
+msgid "The method is very simple. Just enter the URL of the webhook in the settings screen."
+msgstr "使い方はとても簡単で設定画面にてWebhookのURLを入力するだけで動作します。"
+
+#. Found in description paragraph.
+msgid "We'll let Discord know when you're posting your article."
+msgstr "Discordに簡単にお知らせができます。"
+
+#. Found in changelog paragraph.
+msgid ""
+"Added category placeholder and thumbnail embedding.\n"
+"However, it is not compatible with plugins such as FIFU.\n"
+"(I will add them in the future.)"
+msgstr ""
+"Ver-1.2 カテゴリのPlaceholderとサムネイルの埋め込み機能を追加しました。\n"
+"しかし，FIFUなどのプラグインには現在対応していません。\n"
+"（今後対応予定です。）"
+
+#. Found in changelog paragraph.
+msgid ""
+"Change Text Domain."
+"However, this is not a significant update."
+msgstr ""
+"テキストドメインの修正"
+"しかし，これは重要なアップデートではありません。"
+
+#. Found in changelog paragraph.
+msgid "A small readme.txt fix"
+msgstr "readme.txtに小さな変更を加えました。"
+
+#. Found in changelog paragraph.
+msgid "Temporary release This Plugin"
+msgstr "テスト的なリリースをしました。"
+
+#. Found in changelog paragraph.
+msgid "Changed the name of the plugin from Webhook for Discord to Webhook for Discord"
+msgstr "プラグインの名前を『Webhook for Discord』から『Webhook for Discord』に変更しました。"
+
+#. Found in changelog paragraph.
+msgid "Release This Plugin!"
+msgstr "プラグインをリリースしました！"
